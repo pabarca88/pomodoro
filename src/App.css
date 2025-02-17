@@ -204,6 +204,7 @@ body,
   .control-buttons {
     display: flex;
     align-items: center;
+    justify-content: center;
   }
 }
 .control-buttons .btn {
